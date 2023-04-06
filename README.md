@@ -1,6 +1,6 @@
 # Prediction-using-Supervised-ML
 
-## Task 1: Prediction of percentage of marks on the basis of no of hours studied
+## Task 1: Prediction of percentage of marks on the basis of no. of hours studied
 
 This project is a part of the internship program offered by The Sparks Foundation. The objective of the project is to build a simple linear regression model that can predict the percentage of marks scored by a student based on the number of hours they have studied.
 
